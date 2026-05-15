@@ -1,0 +1,11 @@
+{
+    "MQTTBroker" : "myserver.ru",
+    "MQTTPort" : 1883,
+    "MQTTSubscriptionPrefix" : "machinist",
+    "Synth" : "mySynth.onnx",
+    "Font" : "myFont.ttf",
+    "FontName" : "My Font",
+    "StartUpSound" : "Silence.wav",
+    "StartUpMessage" : "Привет, машинист!",
+    "machinistID" : 0
+}
