@@ -7,6 +7,7 @@
 2. Установить требования в пространство
 ```source QAvenv/bin/activate```
 ```pip install requirements.txt```
+3. Заполните ```config.json``` 
 
 # Использование
 Запустите ```StartQuietAether.sh```
